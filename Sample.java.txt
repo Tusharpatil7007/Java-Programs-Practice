@@ -1,5 +1,6 @@
 public class Sample
 {	public static void main(String x[])
 	{	System.out.println("Hello git>>>How are you ....!");
+		System.out.println("New Code");
 	}
 }
